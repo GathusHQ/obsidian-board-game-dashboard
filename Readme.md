@@ -58,14 +58,14 @@ These match the environment used to create the screenshots and help the dashboar
 ---
 ## Screenshots
 
-![Add Game Form – Part 1]("screenshots/Board Game Form 1.png")
-![Add Game Form – Part 2]("screenshots/Board Game Form 2.png")
+![Add Game Form – Part 1](screenshots/Board%20Game%20Form%201.png)
+![Add Game Form – Part 2](screenshots/Board%20Game%20Form%202.png)
 
-![Dashboard – Features Part 1]("screenshots/Board Game Dashboard 1.png")
-![Dashboard – Features Part 2]("screenshots/Board Game Dashboard 2.png")
+![Dashboard – Features Part 1](screenshots/Board%20Game%20Dashboard%201.png)
+![Dashboard – Features Part 2](screenshots/Board%20Game%20Dashboard%202.png)
 
-![Game Page – Details Part 1]("screenshots/Board Game Page 1.png")
-![Game Page – Details Part 2]("screenshots/Board Game Page 2.png")
+![Game Page – Details Part 1](screenshots/Board%20Game%20Page%201.png)
+![Game Page – Details Part 2](screenshots/Board%20Game%20Page%202.png)
 
 ---
 
