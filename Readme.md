@@ -56,6 +56,18 @@ These settings ensure the dashboard and forms open in the correct mode:
 These match the environment used to create the screenshots and help the dashboards display cleanly and consistently.
 
 ---
+## Screenshots
+
+![Add Game Form – Part 1]("screenshots/Board Game Form 1.png")
+![Add Game Form – Part 2]("screenshots/Board Game Form 2.png")
+
+![Dashboard – Features Part 1]("screenshots/Board Game Dashboard 1.png")
+![Dashboard – Features Part 2]("screenshots/Board Game Dashboard 2.png")
+
+![Game Page – Details Part 1]("screenshots/Board Game Page 1.png")
+![Game Page – Details Part 2]("screenshots/Board Game Page 2.png")
+
+---
 
 ## 🚀 Installation (2 minutes)
 
