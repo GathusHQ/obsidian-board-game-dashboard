@@ -10,6 +10,14 @@ Everything runs on **DataviewJS** and core Obsidian features. No external script
 
 ---
 
+> **Update – March 19, 2026**  
+> Added an enhanced **v2** version of the Add New Game form (`Board Game - Add New Game v2.md`).  
+> It automatically generates game notes with a clean 3-column layout (cover image left, categories middle, stats right).  
+> The original standard form is still included — choose whichever you prefer (see **How to Add a New Game** below for details).  
+> Also refreshed the example game (**Botany.md**) and screenshots to show the enhanced layout.
+
+---
+
 ## 📁 Folder Contents
 
 When you unzip the download, you’ll see:
@@ -18,6 +26,7 @@ When you unzip the download, you’ll see:
 Board Games/   ← Folder where your game notes will live
 		Botany.md   ← example game
 	Board Game - Add New Game.md
+	Board Game - Add New Game v2.md
 	Board Game - Dashboard.md
 	Readme.md
 ```
@@ -56,7 +65,10 @@ These settings ensure the dashboard and forms open in the correct mode:
 These match the environment used to create the screenshots and help the dashboards display cleanly and consistently.
 
 ---
+
 ## Screenshots
+
+(Updated to show the enhanced v2 layout in the example game note)
 
 ![Add Game Form – Part 1](screenshots/Board%20Game%20Form%201.png)
 ![Add Game Form – Part 2](screenshots/Board%20Game%20Form%202.png)
@@ -74,13 +86,14 @@ These match the environment used to create the screenshots and help the dashboar
 Follow these steps:
 
 1. **Unzip the download.**
-2. **Copy all three items into the root of your Obsidian vault** (the top level).
+2. **Copy these files and folders into the root of your Obsidian vault** (the top level).
 	You can skip copying the Readme.md if you’ve already read it or don’t need it in your vault.
 
 ```
     Board Games/
 		    Botany.md   ← example game
 	    Board Game - Add New Game.md
+	    Board Game - Add New Game v2.md
 	    Board Game - Dashboard.md
 ```
 
@@ -96,20 +109,27 @@ That’s it. No configuration, no renaming, no plugin setup beyond Dataview.
 
 ## 📝 How to Add a New Game
 
-1. Open **Board Game – Add New Game.md**
-2. Fill out the form fields
-3. Click **Create Board Game**
-4. A new note will appear inside the `Board Games/` folder
+You now have **two form options** — both do the same core job (create a new game note with YAML, description, pros/cons, etc.), but differ in the generated note's appearance:
 
-Each note includes:
+1. **Standard Form** (`Board Game - Add New Game.md`)  
+   - Creates clean, simple notes: YAML + title + basic cover image embed + text sections.  
+   - Great if you prefer minimal styling or want to customize layouts yourself later.
 
-- YAML metadata
-- Cover image
-- Description
-- Pros & Cons
-- Purchase link
+2. **Enhanced Form v2** (`Board Game - Add New Game v2.md`) ← Recommended for new users!  
+   - Same easy inputs, but auto-generates a **beautiful 3-column DataviewJS layout** in every new note:  
+     - Left: Cover image  
+     - Middle: Categories card (split from your / delimited input)  
+     - Right: Stats card (designer, solo/co-op, player count, play time)  
+   - Pros/cons show as neat side-by-side panels below the grid.  
+   - Makes your collection look polished right away.
 
-The dashboard reads all of this automatically.
+**Steps (for either form):**
+1. Open the form note you want to use.
+2. Fill out the fields (title required; others optional).
+3. Click **Create Board Game**.
+4. A new note appears in the `Board Games/` folder — open it to see the result!
+
+The dashboard reads both styles automatically — mix and match as you like.
 
 ---
 
